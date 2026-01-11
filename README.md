@@ -21,6 +21,3 @@ go run cmd/web/main.go
 
 ## Tests
 go test ./...
-
-## Notes
-This is not a full RDBMS, but mirrors real database internals.
